@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Science",
+    "source": "https://en.wikipedia.org/wiki/Science",
+    "content": "The earliest roots of science can be traced to Ancient Egypt and Mesopotamia in around 3500 to 3000 BCE. Their contributions to mathematics, astronomy, and medicine entered and shaped Greek natural philosophy of classical antiquity, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes. After the fall of the Western Roman Empire, knowledge of Greek conceptions of the world deteriorated in Western Europe during the early centuries (400 to 1000 CE) of the Middle Ages but was preserved in the Muslim world during the Islamic Golden Age. The recovery and assimilation of Greek works and Islamic inquiries into Western Europe from the 10th to 13th century revived \"natural philosophy\", which was later transformed by the Scientific Revolution that began in the 16th century[10] as new ideas and discoveries departed from previous Greek conceptions and traditions. The scientific method soon played a greater role in knowledge creation and it was not until the 19th century that many of the institutional and professional features of science began to take shape; along with the changing of \"natural philosophy\" to \"natural science.\"",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Vikings",
+    "source": "https://en.wikipedia.org/wiki/Vikings",
+    "content": "Expert sailors and navigators aboard their characteristic longships, Vikings voyaged as far as the Mediterranean littoral, North Africa, and the Middle East. After decades of exploration around the coasts and rivers of Europe, Vikings established Norse communities and governments scattered across north-western Europe, Belarus, Ukraine and European Russia, the North Atlantic islands all the way to the north-eastern coast of North America. The Vikings and their descendants established themselves as rulers and nobility in many areas of Europe. The Normans, descendants of Vikings who conquered and gave their name to what is now Normandy, also formed the aristocracy of England after the Norman conquest of England. While spreading Norse culture to foreign lands, they simultaneously brought home strong foreign cultural influences to Scandinavia, profoundly influencing the historical development of both. During the Viking Age the Norse homelands were gradually consolidated from smaller kingdoms into three larger kingdoms; Denmark, Norway and Sweden.",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Economy",
+    "source": "https://en.wikipedia.org/wiki/Economy",
+    "content": "A market-based economy is one where goods and services are produced and exchanged according to demand and supply between participants (economic agents) by barter or a medium of exchange with a credit or debit value accepted within the network, such as a unit of currency. A command-based economy is one where political agents directly control what is produced and how it is sold and distributed. A green economy is low-carbon, resource efficient and socially inclusive. In a green economy, growth in income and employment is driven by public and private investments that reduce carbon emissions and pollution, enhance energy and resource efficiency, and prevent the loss of biodiversity and ecosystem services. A gig economy is one in which short-term jobs are assigned or chosen via online platforms. New economy is a term that referred to the whole emerging ecosystem where new standards and practices were introduced, usually as a result of technological innovations. The global economy refers to humanity's economic system or systems overall.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Irezumi",
+    "source": "https://en.wikipedia.org/wiki/Irezumi",
+    "content": "Irezumi (\"inserting ink\") is the Japanese word for tattoo, and refers to a distinctive style of Japanese tattooing, though it is also used as a blanket term to describe a number of tattoo styles originating in Japan, including tattooing traditions from both the Ainu people and the Ryukyuan Kingdom. All forms of irezumi are applied by hand, using wooden handles and metal needles attached via silk thread. This method also requires special ink known as Nara ink (also called zumi); tattooing practiced by both the Ainu people and the Ryukyuan people uses ink derived from the indigo plant. Irezumi is a painful and time-consuming process, practiced by a limited number of specialists known as horishi. Horishi typically have one or more apprentices working for them, whose apprenticeship can last for a long time period; historically, horishi were admired as figures of bravery and roguish sex appeal. At the beginning of the Meiji period, the Japanese government outlawed tattoos, and irezumi took on connotations of criminality and delinquency as a result, leading to considerable stigma against people with tattoos and tattooing in modern-day Japan.",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Economy of the United States",
+    "source": "https://en.wikipedia.org/wiki/Economy_of_the_United_States",
+    "content": "The nation's economy is fueled by abundant natural resources, a well-developed infrastructure, and high productivity. It has the seventh-highest total-estimated value of natural resources, valued at $45 trillion in 2015. Americans have the highest average household and employee income among OECD member states, and in 2010, they had the fourth-highest median household income, down from second-highest in 2007. By 1890, the United States had by far the world's most productive economy. It is the world's largest producer of petroleum and natural gas. In 2016, it was the world's largest trading nation as well as its second-largest manufacturer, representing a fifth of the global manufacturing output. The U.S. not only has the largest internal market for goods, but also dominates the trade in services. U.S. total trade amounted to $4.2 trillion in 2018. Of the world's 500 largest companies, 121 are headquartered in the U.S. The U.S. has the world's highest number of billionaires with total wealth of $3.0 trillion. US commercial banks had $20 trillion in assets as of August 2020. US Global assets under management had more than $30 trillion in assets.",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Blacksmith",
+    "source": "https://en.wikipedia.org/wiki/Blacksmith",
+    "content": "A blacksmith is a metalsmith who creates objects from wrought iron or steel by forging the metal, using tools to hammer, bend, and cut (cf. tinsmith). Blacksmiths produce objects such as gates, grilles, railings, light fixtures, furniture, sculpture, tools, agricultural implements, decorative and religious items, cooking utensils and weapons. There was an historical opposition between the heavy work of the blacksmith and the more delicate operation of a whitesmith, who usually worked in gold, silver, pewter, or the finishing steps of fine steel.[1] The place where a blacksmith works is called variously a smithy, a forge or a blacksmith's shop. While there are many people who work with metal such as farriers, wheelwrights, and armorers, in former times the blacksmith had a general knowledge of how to make and repair many things, from the most complex of weapons and armor to simple things like nails or lengths of chain.",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Calculus",
+    "source": "https://en.wikipedia.org/wiki/Calculus",
+    "content": "The formal study of calculus brought together Cavalieri's infinitesimals with the calculus of finite differences developed in Europe at around the same time. Pierre de Fermat, claiming that he borrowed from Diophantus, introduced the concept of adequality, which represented equality up to an infinitesimal error term. The combination was achieved by John Wallis, Isaac Barrow, and James Gregory, the latter two proving the second fundamental theorem of calculus around 1670. The product rule and chain rule, the notions of higher derivatives and Taylor series, and of analytic functions were used by Isaac Newton in an idiosyncratic notation which he applied to solve problems of mathematical physics. In his works, Newton rephrased his ideas to suit the mathematical idiom of the time, replacing calculations with infinitesimals by equivalent geometrical arguments which were considered beyond reproach. He used the methods of calculus to solve the problem of planetary motion, the shape of the surface of a rotating fluid, the oblateness of the earth, the motion of a weight sliding on a cycloid, and many other problems discussed in his Principia Mathematica (1687). In other work, he developed series expansions for functions, including fractional and irrational powers, and it was clear that he understood the principles of the Taylor series. He did not publish all these discoveries, and at this time infinitesimal methods were still considered disreputable.",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Bass Guitar",
+    "source": "https://en.wikipedia.org/wiki/Bass_guitar",
+    "content": "The bass guitar, electric bass, or simply bass, is the lowest-pitched member of the guitar family. It is a plucked string instrument similar in appearance and construction to an electric or an acoustic guitar, but with a longer neck and scale length, and typically four to six strings or courses. Since the mid-1950s, the bass guitar has largely replaced the double bass in popular music. The four-string bass is usually tuned the same as the double bass, which corresponds to pitches one octave lower than the four lowest-pitched strings of a guitar (E, A, D, and G). It is played primarily with the fingers or thumb, or by striking with a pick. The electric bass guitar has pickups and must be connected to an amplifier and speaker. According to the New Grove Dictionary of Music and Musicians, an \"Electric bass guitar [is] a Guitar, usually with four heavy strings tuned E1'–A1'–D2–G2.\" It also defines bass as \"Bass (iv). A contraction of Double bass or Electric bass guitar.\" According to some authors the proper term is \"electric bass\". Common names for the instrument are \"bass guitar\", \"electric bass guitar\", and \"electric bass\" and some authors claim that they are historically accurate. As the electric alternative to a double bass (which is not a guitar), many manufacturers such as Fender list the instrument in the electric bass category rather than the guitar category.",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Harley-Davidson",
+    "source": "https://en.wikipedia.org/wiki/Harley-Davidson",
+    "content": "Harley-Davidson, Inc., H-D, or Harley, is an American motorcycle manufacturer founded in 1903 in Milwaukee, Wisconsin. Along with Indian it was one of two major American motorcycle manufacturers to survive the Great Depression. The company has survived numerous ownership arrangements, subsidiary arrangements, periods of poor economic health and product quality, and intense global competition to become one of the world's largest motorcycle manufacturers and an iconic brand widely known for its loyal following. There are owner clubs and events worldwide, as well as a company-sponsored, brand-focused museum. Harley-Davidson is noted for a style of customization that gave rise to the chopper motorcycle style. The company traditionally marketed heavyweight, air-cooled cruiser motorcycles with engine displacements greater than 700 cc, but it has broadened its offerings to include more contemporary VRSC (2002) and middle-weight Street (2015) platforms. Harley-Davidson manufactures its motorcycles at factories in York, Pennsylvania; Milwaukee, Wisconsin; Kansas City, Missouri (closed May 2019); Manaus, Brazil; and Bawal, India. Construction of a new plant in Thailand began in late 2018. The company markets its products worldwide, and also licenses and markets merchandise under the Harley-Davidson brand, among them apparel, home decor and ornaments, accessories, toys, scale models of its motorcycles, and video games based on its motorcycle line and the community.",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "United States Marine Corps",
+    "source": "https://en.wikipedia.org/wiki/United_States_Marine_Corps",
+    "content": "The United States Marine Corps (USMC), also referred to as the United States Marines, is the maritime land force service branch of the United States Armed Forces responsible for conducting expeditionary and amphibious operations with the United States Navy as well as the Army and Air Force. The U.S. Marine Corps is one of the eight uniformed services of the United States. The Marine Corps has been part of the U.S. Department of the Navy since 30 June 1834 and is coequal in status to the United States Navy, its sister service. The USMC operates installations on land and aboard sea-going amphibious warfare ships around the world. Additionally, several of the Marines' tactical aviation squadrons, primarily Marine Fighter Attack squadrons, are also embedded in Navy carrier air wings and operate from the aircraft carriers. The history of the Marine Corps began when two battalions of Continental Marines were formed on 10 November 1775 in Philadelphia as a service branch of infantry troops capable of fighting both at sea and on shore. In the Pacific theater of World War II the Corps took the lead in a massive campaign of amphibious warfare, advancing from island to island. As of 2017, the USMC has around 182,000 active duty members and some 38,500 personnel in reserve.",
+    "completed": false
+  }
+]
