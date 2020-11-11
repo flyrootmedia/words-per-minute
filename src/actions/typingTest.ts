@@ -15,10 +15,17 @@ export interface TypingTest {
   source: string;
   content: string;
   completed: boolean;
+  correctWordsCount?: number;
+  totalWordsCount?: number;
 }
 
 export interface FetchTypingTestsAction {
   type: ActionTypes.fetchTypingTests;
+  payload: TypingTest[]
+}
+
+export interface SetCompletedTestsAction {
+  type: ActionTypes.setCompletedTests;
   payload: TypingTest[]
 }
 
@@ -58,6 +65,13 @@ export const fetchTypingTests = () => {
       payload: typingTests
     })
   };
+};
+
+export const setCompletedTests = (tests: TypingTest[]): SetCompletedTestsAction => {
+  return {
+    type: ActionTypes.setCompletedTests,
+    payload: tests
+  }
 };
 
 export const setTypingTest = (test: TypingTest): SetTypingTestAction => {

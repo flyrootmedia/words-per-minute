@@ -9,6 +9,15 @@ export const TypingTestsReducer = ( state: TypingTest[] = [], action: Action ) =
   }
 };
 
+export const CompletedTestsReducer = ( state: TypingTest[] = [], action: Action ) => {
+  switch (action.type) {
+    case ActionTypes.setCompletedTests:
+      return action.payload;
+    default: 
+      return state;
+  }
+}
+
 export const TypingTestReducer = ( state: TypingTest | null = null, action: Action ) => {
   switch (action.type) {
     case ActionTypes.setTypingTest:

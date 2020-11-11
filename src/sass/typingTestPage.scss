@@ -1,0 +1,43 @@
+@import './variables';
+@import './forms';
+
+.typing-test {
+  &_user-input {
+    margin-bottom: 20px;
+  }
+
+  &_instructions {
+    padding-bottom: 12px;
+    border-bottom: 1px solid $color-gray-three;
+  }
+
+  &_results {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 25px;
+
+    button {
+      margin-right: 15px;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  &_title-timer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    h3 {
+      span {
+        position: relative;
+        top: -2px;
+        font-size: 0.7em;
+        color: $color-gray-two;
+      }
+    }
+  }
+}

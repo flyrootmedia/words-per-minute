@@ -2,6 +2,7 @@ import { combineReducers } from 'redux';
 import { TypingTest } from '../actions';
 import { 
   TypingTestsReducer, 
+  CompletedTestsReducer,
   TypingTestReducer,
   WordsArrayReducer,
   TestStartedReducer,
@@ -11,6 +12,7 @@ import {
 
 export interface StoreState {
   typingTests: TypingTest[];
+  completedTests: TypingTest[];
   typingTest: TypingTest | null;
   wordsArray: string[];
   testStarted: boolean;
@@ -20,6 +22,7 @@ export interface StoreState {
 
 export const reducers = combineReducers<StoreState>({
   typingTests: TypingTestsReducer,
+  completedTests: CompletedTestsReducer,
   typingTest: TypingTestReducer,
   wordsArray: WordsArrayReducer,
   testStarted: TestStartedReducer,

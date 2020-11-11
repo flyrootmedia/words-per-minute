@@ -1,0 +1,12 @@
+@import './variables';
+
+.timer {
+  font-size: 1.5rem;
+  font-family: $font-brand;
+  font-weight: 500;
+  color: $color-brand-secondary;
+
+  &.-complete {
+    color: $color-gray-three;
+  }
+}

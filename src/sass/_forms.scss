@@ -1,0 +1,37 @@
+$border-radius: 5px;
+
+input,
+textarea {
+  font-family: $font-body;
+  border: 1px solid $color-gray-three;
+  border-radius: $border-radius;
+  padding: 10px;
+
+  &:disabled {
+    color: $color-gray-three;
+  }
+}
+
+button {
+  font-size: 1.1rem;
+  padding: 10px 20px;
+  border-width: 0;
+  border-radius: $border-radius;
+  background: $color-brand;
+  font-family: $font-brand;
+  font-weight: 500;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+
+  &:hover {
+    background: $color-brand-tint;
+  }
+
+  &:disabled,
+  &:disabled:hover {
+    cursor: default;
+    box-shadow: none;
+    background: $color-gray-three;
+  }
+}
